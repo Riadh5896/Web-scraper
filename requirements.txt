@@ -1,0 +1,10 @@
+tkinter
+requests
+beautifulsoup4
+concurrent.futures
+threading
+logging
+csv
+json
+urllib3
+playwright  
