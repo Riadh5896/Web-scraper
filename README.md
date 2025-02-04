@@ -86,11 +86,8 @@ python scraper.py
 ## File Structure
 ```
 📂 Web-Scraper
-│── scraper.py               # Main script with Tkinter GUI
+│── Gui-scraper.py           # Main script with Tkinter GUI
 │── requirements.txt         # Required dependencies
-│── scraper.log              # Log file for debugging
-│── output.csv (example)     # Example scraped data
-│── output.json (example)    # Example JSON output
 ```
 
 ---
